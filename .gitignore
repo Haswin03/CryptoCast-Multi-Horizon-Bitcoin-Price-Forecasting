@@ -4,3 +4,7 @@ __pycache__/
 data/raw/
 data/processed/
 .DS_Store
+
+__pycache__/
+.streamlit/
+*.ipynb_checkpoints/
